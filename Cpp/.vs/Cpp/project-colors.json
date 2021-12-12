@@ -15,7 +15,27 @@
       "ProjectGuid": "bc19932a-c2a1-4158-9950-d690cb3ead68",
       "DisplayName": "Cpp1_5",
       "ColorIndex": 2
+    },
+    "e67225f3-9b2a-4f56-bc62-006268b16103": {
+      "ProjectGuid": "e67225f3-9b2a-4f56-bc62-006268b16103",
+      "DisplayName": "Cpp1_6",
+      "ColorIndex": 3
+    },
+    "af136339-fda4-484e-ac14-89a617072082": {
+      "ProjectGuid": "af136339-fda4-484e-ac14-89a617072082",
+      "DisplayName": "Scanf",
+      "ColorIndex": 4
+    },
+    "e5a2ab63-9bf0-4d57-aa45-a561f2fac8f1": {
+      "ProjectGuid": "e5a2ab63-9bf0-4d57-aa45-a561f2fac8f1",
+      "DisplayName": "Cout",
+      "ColorIndex": 5
+    },
+    "b0893655-8e1e-4fd3-bc96-5d2acea03f03": {
+      "ProjectGuid": "b0893655-8e1e-4fd3-bc96-5d2acea03f03",
+      "DisplayName": "Cin",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 7
 }
