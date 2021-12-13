@@ -35,7 +35,22 @@
       "ProjectGuid": "b0893655-8e1e-4fd3-bc96-5d2acea03f03",
       "DisplayName": "Cin",
       "ColorIndex": 6
+    },
+    "7b1f63bc-6f95-4113-a33e-37cf237ad3e9": {
+      "ProjectGuid": "7b1f63bc-6f95-4113-a33e-37cf237ad3e9",
+      "DisplayName": "arithmeticoperator",
+      "ColorIndex": 7
+    },
+    "d8d06fc5-7aeb-4db1-b61a-864139f67253": {
+      "ProjectGuid": "d8d06fc5-7aeb-4db1-b61a-864139f67253",
+      "DisplayName": "comparison_operator",
+      "ColorIndex": 8
+    },
+    "b5f20f1a-ae50-4cf5-b2f8-8f50f99973d7": {
+      "ProjectGuid": "b5f20f1a-ae50-4cf5-b2f8-8f50f99973d7",
+      "DisplayName": "logical_operator",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 10
 }
