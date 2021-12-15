@@ -65,7 +65,12 @@
       "ProjectGuid": "0df41cf6-bda4-4a7b-8866-003a5903b305",
       "DisplayName": "IF",
       "ColorIndex": 12
+    },
+    "545eedf1-80a2-4223-abcd-087c59e47ddd": {
+      "ProjectGuid": "545eedf1-80a2-4223-abcd-087c59e47ddd",
+      "DisplayName": "Switch",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
