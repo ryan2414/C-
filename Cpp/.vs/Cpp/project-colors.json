@@ -50,7 +50,22 @@
       "ProjectGuid": "b5f20f1a-ae50-4cf5-b2f8-8f50f99973d7",
       "DisplayName": "logical_operator",
       "ColorIndex": 9
+    },
+    "1ad670d2-8728-4752-8412-96ab9211bc34": {
+      "ProjectGuid": "1ad670d2-8728-4752-8412-96ab9211bc34",
+      "DisplayName": "Bit_Operatior",
+      "ColorIndex": 10
+    },
+    "b71cc54a-f710-43d2-9e4b-31bb2f06f507": {
+      "ProjectGuid": "b71cc54a-f710-43d2-9e4b-31bb2f06f507",
+      "DisplayName": "EctOprator",
+      "ColorIndex": 11
+    },
+    "0df41cf6-bda4-4a7b-8866-003a5903b305": {
+      "ProjectGuid": "0df41cf6-bda4-4a7b-8866-003a5903b305",
+      "DisplayName": "IF",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 13
 }

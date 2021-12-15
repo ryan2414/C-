@@ -1,0 +1,4 @@
+﻿  EctOperator.cpp
+D:\CPP_Study\Cpp\EctOprator\EctOperator.cpp(16,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\CPP_Study\Cpp\EctOprator\EctOperator.cpp(20,9): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EctOprator.vcxproj -> D:\CPP_Study\Cpp\Debug\EctOprator.exe
