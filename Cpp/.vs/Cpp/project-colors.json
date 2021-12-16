@@ -75,7 +75,12 @@
       "ProjectGuid": "f4a06d45-b950-48b7-ae78-f6e825045a8b",
       "DisplayName": "For",
       "ColorIndex": 14
+    },
+    "216dd5c6-ddff-4ec9-906d-60a525a8e04a": {
+      "ProjectGuid": "216dd5c6-ddff-4ec9-906d-60a525a8e04a",
+      "DisplayName": "Array",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 0
 }

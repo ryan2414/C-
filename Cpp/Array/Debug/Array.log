@@ -1,0 +1,6 @@
+﻿  Array.cpp
+D:\CPP_Study\Cpp\Array\Array.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CPP_Study\Cpp\Array\Array.cpp(20,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CPP_Study\Cpp\Array\Array.cpp(21,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CPP_Study\Cpp\Array\Array.cpp(32,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Array.vcxproj -> D:\CPP_Study\Cpp\Debug\Array.exe
