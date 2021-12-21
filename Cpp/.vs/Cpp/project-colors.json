@@ -80,7 +80,12 @@
       "ProjectGuid": "216dd5c6-ddff-4ec9-906d-60a525a8e04a",
       "DisplayName": "Array",
       "ColorIndex": 15
+    },
+    "75b8b597-c468-4831-a9d0-143260ba24de": {
+      "ProjectGuid": "75b8b597-c468-4831-a9d0-143260ba24de",
+      "DisplayName": "MultiArray",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }
