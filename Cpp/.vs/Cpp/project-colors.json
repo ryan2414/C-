@@ -85,7 +85,27 @@
       "ProjectGuid": "75b8b597-c468-4831-a9d0-143260ba24de",
       "DisplayName": "MultiArray",
       "ColorIndex": 0
+    },
+    "50f4cf13-eaa4-4cc2-91f6-50c553f8bc96": {
+      "ProjectGuid": "50f4cf13-eaa4-4cc2-91f6-50c553f8bc96",
+      "DisplayName": "String",
+      "ColorIndex": 1
+    },
+    "b62dba91-d7a5-459d-b470-ef7556afefe2": {
+      "ProjectGuid": "b62dba91-d7a5-459d-b470-ef7556afefe2",
+      "DisplayName": "StdArray",
+      "ColorIndex": 2
+    },
+    "8395d0c3-0c5a-4244-9bd1-e51f71dd8ddd": {
+      "ProjectGuid": "8395d0c3-0c5a-4244-9bd1-e51f71dd8ddd",
+      "DisplayName": "211227_Study_1",
+      "ColorIndex": 3
+    },
+    "9e84573b-fdd6-4765-b311-8316993f02fd": {
+      "ProjectGuid": "9e84573b-fdd6-4765-b311-8316993f02fd",
+      "DisplayName": "211227_Study_2",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }

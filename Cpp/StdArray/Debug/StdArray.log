@@ -1,0 +1,4 @@
+﻿  StdArray.cpp
+D:\CPP_Study\Cpp\StdArray\StdArray.cpp(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\CPP_Study\Cpp\StdArray\StdArray.cpp(22,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  StdArray.vcxproj -> D:\CPP_Study\Cpp\Debug\StdArray.exe
