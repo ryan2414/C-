@@ -45,7 +45,7 @@ public:
 int main() {
 	Player player(200, 100);
 	Monster monster(100, 50);
-
+	//이창재 바보 
 	player.attack(monster);
 	monster.attack(player);
 }
