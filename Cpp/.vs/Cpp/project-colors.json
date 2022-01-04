@@ -140,7 +140,12 @@
       "ProjectGuid": "9280d917-5aaf-4cfc-b07e-9f4c41c2dedc",
       "DisplayName": "220104_Study_2",
       "ColorIndex": 11
+    },
+    "2d7d0f9e-edd4-47d3-8c25-bf4e580cf669": {
+      "ProjectGuid": "2d7d0f9e-edd4-47d3-8c25-bf4e580cf669",
+      "DisplayName": "220104_Study_3",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }
